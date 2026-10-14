@@ -36,6 +36,3 @@ The repository includes the Java interpreter source code and the additional clas
 
 See the Homework 6 written submission for explanations, code examples, expected results, and the files modified for each challenge.
 
-## Reference
-
-Crafting Interpreters by Robert Nystrom, Chapters 12 and 13.
